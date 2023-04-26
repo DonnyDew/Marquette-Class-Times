@@ -38,7 +38,7 @@ The code is divided into two main sections:
 * Create the heatmap using seaborn and display it using matplotlib.
 
 ## Output
-The output is a heatmap visualization that shows the frequency of classes during 15-minute intervals throughout the week. The heatmap's x-axis represents the days of the week, and the y-axis represents the time intervals in standard time format (e.g., "12:15 PM-12:30 PM").
+![Output](https://github.com/DonnyDew/Marquette-Class-Times/blob/master/Class%20Frequency%20Heat%20Map.png?raw=True)
 
 ## Other Tools Used
 * ChatGPT
